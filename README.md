@@ -13,7 +13,7 @@ Current Uploads:
 
 Takes a 0-1 LFO and adds an easing function similar to what professional video and animation software use for humanizing animation.
 
-Multiband Audio Filter
+### **Multiband Audio Filter**
 
 Takes an incoming audio signal, splits it into any amount of pieces, puts it back together into a single chop. You can use that chop to drive image displacement, audio bars like you see in a lot of visualizers, or spikes coming off of a sphere. 
 
