@@ -7,7 +7,7 @@ To save, when it is open in TD, click the Open Pallete button in TD. Then drag t
 Get TD here https://derivative.ca/UserGuide/TouchDesigner
 
 
-Current Uploads:
+## Current Uploads:
 
 ### **Ease Tox**
 
@@ -24,7 +24,7 @@ Text Marquee
 Custom 3D FX
 Other Utilities (UV Maps to drag and drop into your project)
 
-Why
+## Why
 
 If you're like me, you love making art, love technology, love learning, and are constantly having to pay to access it all.
 
