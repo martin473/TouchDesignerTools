@@ -9,7 +9,7 @@ Get TD here https://derivative.ca/UserGuide/TouchDesigner
 
 Current Uploads:
 
-**Ease Tox**
+### **Ease Tox**
 
 Takes a 0-1 LFO and adds an easing function similar to what professional video and animation software use for humanizing animation.
 
