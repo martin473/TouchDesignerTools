@@ -9,6 +9,7 @@ Get TD here https://derivative.ca/UserGuide/TouchDesigner
 
 Current Uploads:
 Ease Tox - Takes a 0-1 LFO and adds an easing function similar to what professional video and animation software use for humanizing animation.
+Multiband Audio Filter - Used for responsive audio visualization, turn an audio signal into a specific amount of data points which you can use in a reactive project.
 
 Future uploads include:
 Ditering
