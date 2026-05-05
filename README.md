@@ -17,11 +17,16 @@ Takes a 0-1 LFO and adds an easing function similar to what professional video a
 
 Takes an incoming audio signal, splits it into any amount of pieces, puts it back together into a single chop. You can use that chop to drive image displacement, audio bars like you see in a lot of visualizers, or spikes coming off of a sphere. 
 
-Future uploads include:
+### **Future uploads include:**
+
 Ditering
+
 CRT TV distortion
+
 Text Marquee
+
 Custom 3D FX
+
 Other Utilities (UV Maps to drag and drop into your project)
 
 ## Why
